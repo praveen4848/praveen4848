@@ -4,7 +4,8 @@
   <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
   <img alt="Praveen's GitHub profile" src="./dark_mode.svg" />
 </picture>
-## Hi there 👋
+##Praveen Kumar Kakaraparthi
+
 
 <!--
 **praveen4848/praveen4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
